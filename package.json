@@ -1,0 +1,17 @@
+{
+  "name": "subscribe-stream",
+  "description": "subscribe to streams",
+  "version": "0.0.0",
+  "dependencies": {
+    "ws": "*"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "app.js"
+  },
+  "subdomain": "subscribe-stream",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
